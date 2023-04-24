@@ -1,0 +1,31 @@
+Creating Forensic Image
+1. Click File, and then Create Disk Image, or click the button on the tool bar.
+2.Select the source you want to make an image of and click Next
+3. Select the drive or browse to the source of the image you want, and then click Finish
+4.In the Create Image dialog, click Add
+5. Select the type of image you want to create, and then click Next.
+Note: If you are creating an image of a CD or DVD, this step is skipped because all
+CD/DVD images are created in the IsoBuster CUE format.
+6.In the Image Destination Folder field, type the location path where you want to save the
+image file, or click Browse to find to the desired location.
+7.In the Image Filename field, specify a name for the image file but do not specify a file
+extension.
+8. In the Image Fragment Size field, specify the maximum size in MB for each fragment
+ofthe image file.
+9. Click Finish. You return to the Create Image dialog.
+10. To add another image destination (i.e., a different saved location or image file type), click
+Add, and repeat steps 5– 10. To make changes to an image destination, select the
+destination you want to change and click Edit.
+11. Click Start to begin the imaging process. A progress dialog appears that shows
+thefollowing:
+--> The source that is being imaged
+-->The location where the image is being saved
+--> The status of the imaging process
+-->A graphical progress bar
+-->The amount of data in MB that has been copied and the total amount to be
+copied
+-->Elapsed time after the imaging process began
+-->Estimated time left until the process is complete
+12.After the images are successfully created, click Image Summary to view detailed file
+information, including MD5 and SHA1 checksums.
+13.When finished, click Close
