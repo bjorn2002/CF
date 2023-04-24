@@ -1,0 +1,45 @@
+Practical.No.7
+Aim:- Recovering and Inspecting deleted files
+
+A) Check for Deleted Files
+B) Recover the Deleted Files
+C) Analyzing and Inspecting the recovered files
+
+Step:-
+1. Open AccessData FTK Imager. Click on File > Create Disk Image > click on
+logical Drive.
+2. click On next > Click on Select Drive
+3. Click On Add > Browser.
+4. Click Select Image Type > Click On E01 > Click On next
+5. Evidence item Information > Click on Next.
+6. Select Image Destination Folder > Click On Finish.
+7. Creating Image Progress.
+8. Click On Close.
+9. Open the Sysinfo Encase Recovery(Demo) v22.0 > Click On Browser.
+10. Click On Parse as Disk.
+11. Click On Next.
+12. Select On Volume List > Click On Next.
+13. Click On Standard > Click On Next.
+14. Finish > Recover the Deleted Files.
+
+C) Analyzing and Inspecting the recovered files.
+Open the File From the extracted location and check the contents.
+1.Open the Control Panel > Click File Explorer Options
+2. Click on Hide protected Operating System files (Recommanded)
+> Click On Apply.
+3. Open the File > Check the file hide Recycle.bin.
+4. Recovering deleted files through command line > press Window
+key+ R and in the search box , type CMD.
+5. In the command Prompt window, type chkdsk ‘drive letter’ /f
+and hit Enter.
+For example: C:\windows\system32>chkdsk E: /f >
+Press Y until the command lines start again. > Type the drive letter
+again and hit Enter
+(The command line will go back to the start)
+6.Now, type [drive letter: \>attrib –h –r –s/s/d *.*].
+This command will recover all the files in the storage drive (attrib –
+r –s drive:\<path>\<foldername>)
+7. Access denied F:\System Volume Information > Click on /grant
+Student :F > type /grant student :F /t > Successfully Processed File.
+8. Open the File > Check the File System Volume Information >
+Finish the Analyzing and inspecting the recovered files.
