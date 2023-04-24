@@ -1,0 +1,31 @@
+Practical. No. 6
+Aim:- Using Sysinternals tools for Network Tracking and Process
+
+
+Step :-
+1.Download the Sysinternals Suite
+
+A) Check Sysinternals tools
+2. Click Extract Files
+3. Click on Procmon > Click On Agree.
+4. Click On process Monitor Filter > Click On Reset > Add click >
+Click On Apply
+
+B) Monitor Live Processes
+5. Click On tools > Click On Process tree.
+6. Click On Tools > Process Activity Summary.
+
+C) Capture RAM-Capture
+7. Click On RAMMap > Click On Agree.
+
+D) TCP/UDP packets
+8. Click On tcp view > Click On Agree.
+
+E) Monitor Hard Disk
+9. Click On vmmap > Click On Agree
+
+F) Monitor Virtual Memory
+10. Click On Ok
+
+G) Monitor Cache Memory
+11. Click On Cacheset > Click On Agree.
