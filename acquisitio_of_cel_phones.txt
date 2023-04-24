@@ -1,0 +1,17 @@
+Practical.No. 8
+Aim:- Acquisition of Cell phones and Mobile devices.
+
+Steps:-
+1) Android Studio Download
+2) New Project Click and Empty pages Click
+3) Tools -> SDK Manager
+Click:-i)Android 13.0
+ii) Android 7.0
+iii) Android SDK Command Line tools
+iv) Android Emulator
+v) Android SDK platform
+vi )Intel x 86 Emulator Accelerator
+
+4) Mobile devices Connect:-
+
+
