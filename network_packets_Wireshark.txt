@@ -1,0 +1,24 @@
+Practical.No.4
+Aim:- Capturing and analyzing network packets using Wireshark
+(Fundamentals):
+a) Identification the live network
+b) Capture Packets
+c) Analyze the captured packets
+
+
+
+Step:-
+1.Open Wireshark and click on Ethernet.
+2. Recording started > Now Go on browser and open any unsecured
+website > Now come back to Wireshark and enter http in the search bar.
+3. Click On Capture > Click On Options.
+4. Click On Ethernet > Click On Start.
+5. Now click on the get ip addr==192 .168.1.21 and see the details.
+6. Now click on the get ip.src and see the details.
+7. Now click on the get http and see the details.
+8. Now Click On the get http.request and see the details.
+9. Now Click On the get tcp and see the details.
+10. Now Click on the get http.response.code and see the details.
+11. Now Click On the get tcp.port==80||udp.port ==80 and see the
+details.
+
