@@ -1,0 +1,21 @@
+Practical.No.10
+Aim: Web Browser Forensics
+1) Web Browser working
+2) Forensics activities on browser
+3) Cache / Cookies analysis
+4) last Internet
+activity
+
+
+Steps:-
+1) Search Google and Browser History Examiner
+2) Download Browser History Examiner
+
+
+
+Continue Trial Clicked
+Capture History Clicked
+
+Steps 3:- To Create Reports. Click on file > Report and savethe report as pdf or html page
+
+
